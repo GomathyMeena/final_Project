@@ -1,0 +1,2 @@
+The testBranch
+ file is created with conflict
